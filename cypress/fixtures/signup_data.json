@@ -1,0 +1,22 @@
+{
+    "email": "jTadds@sfg.cm",
+    "firstName": "Vulcan",
+    "lastName": "Klins",
+    "title": "MR",
+    "password": "1234567",
+    "dobDay": "1",
+    "dobMonth": "3",
+    "dobYear": "2020",
+    "companyName": "Tripple V",
+    "address": "WR-004-4320",
+    "address2": "WR-0005-5655",
+    "city": "Accra",
+    "state": "1",
+    "zipCode": "12345",
+    "country": "21",
+    "additionalInfo": "Hi this is my first account",
+    "homePhone": "0204904568",
+    "mobilePhone": "0533438753",
+    "addressAlias": "f"
+
+}
